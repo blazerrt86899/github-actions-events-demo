@@ -1,6 +1,8 @@
 import HelpBox from './HelpBox';
 import './HelpArea.css';
 
+// Checking special CI action for skipping
+
 const HELP_ITEMS = [
   {
     id: 'h1',
